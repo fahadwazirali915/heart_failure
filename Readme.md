@@ -17,6 +17,6 @@
   
 ***
 
-## **Best Technique:** <span style="color:cyan"> *Random Forest*</span>
+## **Best Technique:** <span style="color:cyan"> *Gaussian Naive Bayes*</span>
 
 
